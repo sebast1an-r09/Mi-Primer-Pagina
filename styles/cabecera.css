@@ -1,0 +1,26 @@
+
+
+#cabecera{
+	border-style: solid;
+	border: 5px;
+	padding: 5px;
+	padding-left: 10px;
+	background: linear-gradient(#1DB96B,#30BF77);
+	height: 150px;
+	margin-bottom: 5px;
+	font-family: consolas;
+	border-radius: 5px 10px;
+}
+
+#titulo{
+	font-size: 38px;
+}
+
+#subtitulo{
+	font-size: 18px;
+}
+
+#imgcabecera{
+	float: right;
+	padding-right: 2px;
+}

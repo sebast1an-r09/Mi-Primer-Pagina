@@ -1,0 +1,11 @@
+figure{display: block;}
+
+#derecha{
+	float: right;
+}
+
+#izquierda{
+	float: left;
+}
+
+

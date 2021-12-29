@@ -1,0 +1,10 @@
+#seccion{
+	float: left;
+	width: 892px;
+	margin: 5px;
+	margin-left: 1px;
+	background: #33D182;
+	padding: 15px;
+	border-radius: 5px 10px;
+	font-family: consolas;
+}

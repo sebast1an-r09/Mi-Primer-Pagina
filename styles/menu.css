@@ -1,0 +1,38 @@
+#menu{
+	background: #47D990;
+	padding: 1px;
+	border-radius: 10px;
+	position:relative;
+}
+
+#menu2{
+	display: inline-block;
+    list-style: none;
+    padding: 2px;
+    font: bold 16px consolas,sans-serif;
+}
+
+#menu3:hover ul{
+	display: block;
+	color: #15B465;
+	background:radial-gradient(#17B880,#1FDC9A);
+	padding: 5px 20px;
+	border-radius: 5px 10px;
+}
+
+#menu4{
+	width: 101px;
+	background: #17B880;
+	border: 2px solid;
+	display:none;
+	position: relative;
+}
+
+#menu5{
+	width:110px;
+	list-style:none;
+	display: block;
+	font: bold 15px consolas,sans-serif;
+}
+
+#1FDC9A

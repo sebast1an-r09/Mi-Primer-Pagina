@@ -1,0 +1,14 @@
+#pie{
+	clear: both;
+	text-align: left;
+	padding: 10px;
+	border-top: 2px solid #999999;
+	background: #5ADE9C;
+	border-radius: 5px 10px;
+	font-family: consolas;
+}
+
+#articulo{
+	text-align: justify-all;
+	padding: 20px;
+}

@@ -1,0 +1,10 @@
+#columna{
+	float: left;
+	width: 400px;
+	margin: 5px 0px;
+	margin-left: 1px;
+	padding: 15px;
+	background: #47D990;
+	border-radius: 5px 10px;
+	font-family: consolas;
+}
